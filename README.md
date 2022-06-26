@@ -4,7 +4,7 @@ A simple ARP spoofer.
 
 ### _Installing ARP Spoofer:_
 ```
-git clone https://github.com/dogemon/ARP_Spoofer
+git clone https://github.com/silica47/ARP_Spoofer
 cd ARP_Spoofer
 pip install -r requirements.txt
 ```
